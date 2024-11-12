@@ -3,15 +3,19 @@
 <img width="558" alt="Screenshot 2024-11-12 at 8 40 11 PM" src="https://github.com/user-attachments/assets/d3897a6b-c82d-4ab3-b446-8fba7a43e790">
 
 Complete Network Topology
+
 <img width="718" alt="Screenshot 2024-11-11 at 12 47 51 PM" src="https://github.com/user-attachments/assets/23000897-357d-413c-83ec-e1dc56f3359c">
 
 Router Configuration
+
 <img width="769" alt="Screenshot 2024-11-11 at 12 52 04 PM" src="https://github.com/user-attachments/assets/e120fb06-5c8c-4f55-9a62-3c3cf935f4d6">
 
 Switch Configuration
+
 <img width="654" alt="Screenshot 2024-11-11 at 12 51 34 PM" src="https://github.com/user-attachments/assets/963ac934-fe49-40cc-8364-1a9afa50a4e3">
 
 Configuration of PC3, PC4, PC5
+
 <img width="663" alt="Screenshot 2024-11-11 at 1 16 25 PM" src="https://github.com/user-attachments/assets/fa50e60c-1b66-4856-8332-4fb8308f2125">
 
 <img width="662" alt="Screenshot 2024-11-11 at 1 16 38 PM" src="https://github.com/user-attachments/assets/612446c8-7b62-4c24-bb37-20fb5615302c">
@@ -19,6 +23,7 @@ Configuration of PC3, PC4, PC5
 <img width="668" alt="Screenshot 2024-11-11 at 1 16 48 PM" src="https://github.com/user-attachments/assets/7f0a0978-dfed-4e49-ada8-dceed664e0f1">
 
 Configuration of Password protection in Router and Switch
+
 <img width="721" alt="Screenshot 2024-11-11 at 12 41 30 PM" src="https://github.com/user-attachments/assets/4c09468b-2f71-4af7-bb6c-4f23ce844011">
 
 <img width="720" alt="Screenshot 2024-11-11 at 12 42 15 PM" src="https://github.com/user-attachments/assets/818c0ec3-c500-46c7-9f5c-6ea5115e5339">
