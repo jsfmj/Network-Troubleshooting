@@ -1,5 +1,8 @@
 # Network-Troubleshooting
 
+![network](https://github.com/user-attachments/assets/670f18c8-d025-45e9-8586-b09137b80411)
+
+
 <img width="558" alt="Screenshot 2024-11-12 at 8 40 11 PM" src="https://github.com/user-attachments/assets/d3897a6b-c82d-4ab3-b446-8fba7a43e790">
 
 Complete Network Topology
