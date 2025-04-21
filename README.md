@@ -3,8 +3,6 @@
 ![network](https://github.com/user-attachments/assets/670f18c8-d025-45e9-8586-b09137b80411)
 
 
-<img width="558" alt="Screenshot 2024-11-12 at 8 40 11 PM" src="https://github.com/user-attachments/assets/d3897a6b-c82d-4ab3-b446-8fba7a43e790">
-
 Complete Network Topology
 
 <img width="718" alt="Screenshot 2024-11-11 at 12 47 51 PM" src="https://github.com/user-attachments/assets/23000897-357d-413c-83ec-e1dc56f3359c">
