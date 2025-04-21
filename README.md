@@ -7,7 +7,6 @@ General Tasks:
 2.	Add additional users to the network.
 3.	Implement security features, including port security and password protection.
 
-![image](https://github.com/user-attachments/assets/c05171c2-ad03-4247-a1db-66050e06f46d)
 
 
 ![network](https://github.com/user-attachments/assets/5c8c27e6-cc5d-456f-bfda-a760b599e125)
