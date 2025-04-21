@@ -1,6 +1,6 @@
 # Network-Troubleshooting
 Objective: Working on a partially functioning network in Cisco Packet Tracer. Tasks involve fixing DHCP issues, adding new users, and implementing security measures to ensure the network is fully operational.
-![image](https://github.com/user-attachments/assets/e58f9f7d-c1c9-4165-9530-b17913f339bd)
+
 
 General Tasks:
 1.	Fix DHCP issues, add new users, and implement basic security.
