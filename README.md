@@ -1,6 +1,17 @@
 # Network-Troubleshooting
+Objective: Working on a partially functioning network in Cisco Packet Tracer. Tasks involve fixing DHCP issues, adding new users, and implementing security measures to ensure the network is fully operational.
+![image](https://github.com/user-attachments/assets/e58f9f7d-c1c9-4165-9530-b17913f339bd)
 
-![network](https://github.com/user-attachments/assets/670f18c8-d025-45e9-8586-b09137b80411)
+General Tasks:
+1.	Fix DHCP issues, add new users, and implement basic security.
+2.	Add additional users to the network.
+3.	Implement security features, including port security and password protection.
+
+![image](https://github.com/user-attachments/assets/c05171c2-ad03-4247-a1db-66050e06f46d)
+
+
+![network](https://github.com/user-attachments/assets/5c8c27e6-cc5d-456f-bfda-a760b599e125)
+
 
 
 Complete Network Topology
